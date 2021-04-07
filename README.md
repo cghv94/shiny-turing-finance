@@ -1,3 +1,2 @@
-Turing Finance
-
-https://cesar-h.shinyapps.io/turing-finance/
+library(shiny)
+runGitHub("shiny-turing-finance", "cghv94", ref = "main")
