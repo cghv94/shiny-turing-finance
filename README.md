@@ -1,2 +1,1 @@
-library(shiny)
-runGitHub("shiny-turing-finance", "cghv94", ref = "main")
+shiny::runGitHub("shiny-turing-finance", "cghv94", ref = "main")
